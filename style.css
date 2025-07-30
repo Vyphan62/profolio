@@ -1,0 +1,159 @@
+            
+            body {
+                background-color: lightgrey;
+            }
+            .mainmenu {
+                width: 467px;
+                height: 970px;
+                margin-left: 346px;
+            }
+            h1 {
+            font-family: "Inter", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 647;
+            font-style: normal;
+            font-size: 45px;
+            }
+            h2, h3, h4, h5, h6 {
+                font-family: "Inter", sans-serif;
+                font-optical-sizing: auto;
+                font-style: normal;
+            }
+            h1, h2, h3, h4, h5, h6 {
+                color: black;
+                object-fit: cover;
+                position: absolute;
+            }
+            img {
+                position: absolute;
+                object-fit: cover;
+            }
+            p {
+                position: absolute;
+            }
+            body {
+                width: 1440px;
+                height: 8063px;
+                background-color: #F0F0F6;
+            }
+            .center {
+                background-color: #FFFFFF;
+                position: absolute;
+                width: 970px;
+                height: 467px;
+                margin-left: 335px;
+                top: 0px;
+            }
+            .left {
+                position: absolute;
+                background-color: #FFFFFF;
+                width: 305px;
+                height: 1315px;
+                top: 0px;
+                left:0px;
+            }
+            .progress-bar {
+                position: absolute;
+                width: 220px;
+                height: 4px;
+                background: #f1f1f1;
+                border-radius: 30px;
+                overflow: hidden;
+            }
+            .Price{
+                width: 970px;
+                height: 793px; 
+                top: 1328px;
+                left: 335px; 
+                position: absolute
+            }
+            .Recommendations{
+                width: 970px; 
+                height: 566px; 
+                top: 2191px; 
+                left: 335px; 
+                position: absolute
+            }
+            .Education{
+                width: 970px; 
+                height: 815px; 
+                top: 2827px; 
+                left: 335px; position: absolute
+            }
+            .WorkHistory{
+                width: 970px; 
+                height: 815px; 
+                top: 3712px; 
+                left: 335px; 
+                position: absolute
+            }
+            .Portfolio{
+                width: 970px; 
+                height: 1195px; 
+                top: 4597px; 
+                left: 335px; 
+                position: absolute
+            }
+            .Blog{
+                top: 5862px; 
+                left: 350px; 
+                width: 970px; 
+                height: 665px; 
+                position: absolute
+            }
+            .InfoContact{
+                width: 970px; 
+                height: 755px; 
+                top: 6597px; 
+                left: 335px; 
+                position: absolute 
+            }
+            .progress-fill {
+                height: 100%;
+                background-color: #FFB400;
+                border-radius: 30px;
+                transition: width 0.4s ease;
+            }
+            .right {
+                background-color: #FFFFFF;
+                position: fixed;
+                width: 108px;
+                height: 1315px;
+                margin-left: 1332px;
+                top: 0px;
+            }
+            .Services{
+                width: 970px; 
+                height:653px; 
+                top: 605px; 
+                left: 335px; 
+                position: absolute;
+            }
+            .box {
+                background-color: #FFFFFF;
+            }
+            .footer {
+                background-color: #FFFFFF;
+            }
+            .iconcontainer {
+                position: absolute;
+                background-color: #FFFFFF;
+                width: 310px;
+                height: 225px;
+            }
+            button {
+                background-color: #FFB400;
+                cursor: pointer;
+            }
+            button:hover {
+                background-color: #d69b10;
+                transform: 1.2x;
+            }
+            #switch-mode{
+                outline: none;
+                border: none;
+                background: none;
+                top: 50px;
+                left: 39px;
+                position: absolute;
+            }
